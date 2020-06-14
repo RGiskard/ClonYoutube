@@ -1,0 +1,16 @@
+{
+  "pedidos":[
+  {
+    "encuentro":14951826,
+    "dni":71502481,
+    "peso":27,
+    "codigo":7117
+  },
+  {
+    "encuentro":14964410,
+    "dni":75896321,
+    "peso":23,
+    "codigo":1234
+  }
+  ]
+}
