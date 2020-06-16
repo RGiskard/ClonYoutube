@@ -13,6 +13,13 @@
     "name":"Zoila Baca",
     "peso":23,
     "codigo":"1234"
+  },
+  {
+    "encuentro":"14964410",
+    "dni":"75896321",
+    "name":"Efrain Guerrero",
+    "peso":1,
+    "codigo":"1234"
   }
   ]
 }
